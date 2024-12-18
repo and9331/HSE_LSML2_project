@@ -6,39 +6,39 @@ An ML-powered customer support chatbot that understands and responds to customer
 
 ## Directory Structure
 
-project-root/
-│
-├── data/
-│   ├── raw/
-│   │   └── customer_support_on_twitter.csv
-│   └── processed/
-│       ├── labeled_customer_support.csv
-│       ├── train.csv
-│       └── test.csv
-│
-├── src/
-│   ├── data_preprocessing/
-│   │   └── preprocess.py
-│   ├── model_training/
-│   │   ├── train.py
-│   │   └── requirements.txt
-│   └── utils/
-│       └── helpers.py
-│
-├── api/
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   ├── main.py
-│   └── models/
-│       ├── best_model_state.bin
-│       └── intent_mapping.json
-│
-├── client/
-│   ├── Dockerfile
-│   └── index.html
-│
-├── docker-compose.yml
-└── README.md
+project-root/ <br />
+│ <br />
+├── data/ <br />
+│   ├── raw/ <br />
+│   │   └── customer_support_on_twitter.csv <br />
+│   └── processed/ <br />
+│       ├── labeled_customer_support.csv <br />
+│       ├── train.csv <br />
+│       └── test.csv <br />
+│ <br />
+├── src/ <br />
+│   ├── data_preprocessing/ <br />
+│   │   └── preprocess.py <br />
+│   ├── model_training/ <br />
+│   │   ├── train.py <br />
+│   │   └── requirements.txt <br />
+│   └── utils/ <br />
+│       └── helpers.py <br />
+│ <br />
+├── api/ <br />
+│   ├── Dockerfile <br />
+│   ├── requirements.txt <br />
+│   ├── main.py <br />
+│   └── models/ <br />
+│       ├── best_model_state.bin <br />
+│       └── intent_mapping.json <br />
+│ <br />
+├── client/ <br />
+│   ├── Dockerfile <br />
+│   └── index.html <br />
+│ <br />
+├── docker-compose.yml <br />
+└── README.md <br />
 
 
 
