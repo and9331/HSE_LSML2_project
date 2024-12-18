@@ -1,0 +1,14 @@
+version: '3'
+services:
+  api:
+    build: ./api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./api/models:/app/models
+  client:
+    build: ./client
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
