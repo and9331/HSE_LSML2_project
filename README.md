@@ -128,16 +128,16 @@ The best model (best_model_state.bin) and intent_mapping.json will be saved in a
       docker-compose down
 
 ## Screenshots
-Server and client running
-![image](https://github.com/user-attachments/assets/ad9ed93a-ef94-4d3c-a333-1d7e03930ad5)
-Web app for chat-bot
-![image](https://github.com/user-attachments/assets/523a9bd7-32ee-4022-ab74-a31fc5d36e5c)
-Docker-compose build
-![image](https://github.com/user-attachments/assets/d8c9ca5a-038e-494f-aa08-c55ded52c7bb)
-Docker up and running
-![image](https://github.com/user-attachments/assets/dd78618e-a464-4d89-b7d1-902928d5c858)
-Docker images
-![image](https://github.com/user-attachments/assets/dfc70b84-3f8a-4ff5-b071-8c1920720475)
+Server and client running <br />
+![image](https://github.com/user-attachments/assets/ad9ed93a-ef94-4d3c-a333-1d7e03930ad5) <br />
+Web app for chat-bot <br />
+![image](https://github.com/user-attachments/assets/523a9bd7-32ee-4022-ab74-a31fc5d36e5c) <br />
+Docker-compose build <br />
+![image](https://github.com/user-attachments/assets/d8c9ca5a-038e-494f-aa08-c55ded52c7bb) <br />
+Docker up and running <br />
+![image](https://github.com/user-attachments/assets/dd78618e-a464-4d89-b7d1-902928d5c858) <br />
+Docker images <br />
+![image](https://github.com/user-attachments/assets/dfc70b84-3f8a-4ff5-b071-8c1920720475) <br />
 
 
 ## Technologies and Tools
